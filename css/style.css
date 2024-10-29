@@ -1,0 +1,23 @@
+@import url("components/button.css");
+@import url("components/container.css");
+@import url("components/Avatar.css");
+
+@import url("components/banner.css");
+@import url("components/card.css");
+
+body {
+	font-family: "Lora", serif;
+	font-size: 18px;
+	margin: 0px;
+	background-color: #D6C0B3;
+} 
+h1,h2,h3 { 
+ 	font-family: "Ramaraja", serif;
+ 	font-weight: bold;
+} 
+a{ 
+	text-decoration: none;
+} 
+image { 
+	width: 150px;
+}  
